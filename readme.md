@@ -1,4 +1,4 @@
-# Playwirght API Test Automation
+# Playwright API Test Automation
 
 This repository demonstrates how to perform API testing using [Playwright](https://playwright.dev/).
 
